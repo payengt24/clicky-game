@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/payengt24/clicky-game/static/css/main.5b25e34d.chunk.css",
+    "main.js": "/payengt24/clicky-game/static/js/main.eb5bc9e4.chunk.js",
+    "main.js.map": "/payengt24/clicky-game/static/js/main.eb5bc9e4.chunk.js.map",
+    "runtime~main.js": "/payengt24/clicky-game/static/js/runtime~main.63db9772.js",
+    "runtime~main.js.map": "/payengt24/clicky-game/static/js/runtime~main.63db9772.js.map",
+    "static/js/2.0fb7f9dc.chunk.js": "/payengt24/clicky-game/static/js/2.0fb7f9dc.chunk.js",
+    "static/js/2.0fb7f9dc.chunk.js.map": "/payengt24/clicky-game/static/js/2.0fb7f9dc.chunk.js.map",
+    "index.html": "/payengt24/clicky-game/index.html",
+    "precache-manifest.bff8089ecc92a9526457011fe0cfdfd9.js": "/payengt24/clicky-game/precache-manifest.bff8089ecc92a9526457011fe0cfdfd9.js",
+    "service-worker.js": "/payengt24/clicky-game/service-worker.js",
+    "static/css/main.5b25e34d.chunk.css.map": "/payengt24/clicky-game/static/css/main.5b25e34d.chunk.css.map",
+    "static/media/logo.svg": "/payengt24/clicky-game/static/media/logo.5d5d9eef.svg"
+  }
+}
