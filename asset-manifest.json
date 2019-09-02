@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/payengt24.io/clicky-game/static/css/main.5b25e34d.chunk.css",
-    "main.js": "/payengt24.io/clicky-game/static/js/main.9421f3e1.chunk.js",
-    "main.js.map": "/payengt24.io/clicky-game/static/js/main.9421f3e1.chunk.js.map",
-    "runtime~main.js": "/payengt24.io/clicky-game/static/js/runtime~main.de84935c.js",
-    "runtime~main.js.map": "/payengt24.io/clicky-game/static/js/runtime~main.de84935c.js.map",
-    "static/js/2.0fb7f9dc.chunk.js": "/payengt24.io/clicky-game/static/js/2.0fb7f9dc.chunk.js",
-    "static/js/2.0fb7f9dc.chunk.js.map": "/payengt24.io/clicky-game/static/js/2.0fb7f9dc.chunk.js.map",
-    "index.html": "/payengt24.io/clicky-game/index.html",
-    "precache-manifest.e89a659600b831c017461c5ad2792cd3.js": "/payengt24.io/clicky-game/precache-manifest.e89a659600b831c017461c5ad2792cd3.js",
-    "service-worker.js": "/payengt24.io/clicky-game/service-worker.js",
-    "static/css/main.5b25e34d.chunk.css.map": "/payengt24.io/clicky-game/static/css/main.5b25e34d.chunk.css.map",
-    "static/media/logo.svg": "/payengt24.io/clicky-game/static/media/logo.5d5d9eef.svg"
+    "main.css": "/clicky-game/static/css/main.5b25e34d.chunk.css",
+    "main.js": "/clicky-game/static/js/main.d5ff0444.chunk.js",
+    "main.js.map": "/clicky-game/static/js/main.d5ff0444.chunk.js.map",
+    "runtime~main.js": "/clicky-game/static/js/runtime~main.80bf01e5.js",
+    "runtime~main.js.map": "/clicky-game/static/js/runtime~main.80bf01e5.js.map",
+    "static/js/2.0fb7f9dc.chunk.js": "/clicky-game/static/js/2.0fb7f9dc.chunk.js",
+    "static/js/2.0fb7f9dc.chunk.js.map": "/clicky-game/static/js/2.0fb7f9dc.chunk.js.map",
+    "index.html": "/clicky-game/index.html",
+    "precache-manifest.daa959c754adde804d8ec9aa1f68c36b.js": "/clicky-game/precache-manifest.daa959c754adde804d8ec9aa1f68c36b.js",
+    "service-worker.js": "/clicky-game/service-worker.js",
+    "static/css/main.5b25e34d.chunk.css.map": "/clicky-game/static/css/main.5b25e34d.chunk.css.map",
+    "static/media/logo.svg": "/clicky-game/static/media/logo.5d5d9eef.svg"
   }
 }
